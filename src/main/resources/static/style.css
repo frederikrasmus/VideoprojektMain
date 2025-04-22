@@ -99,7 +99,8 @@ body {
     margin-top: 10px;
 }
 .form-container input[type="text"],
-.form-container input[type="url"] {
+.form-container input[type="url"],
+.form-container input[type="number"] {
     width: 100%;
     padding: 8px;
     margin-top: 5px;
